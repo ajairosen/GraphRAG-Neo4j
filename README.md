@@ -4,9 +4,12 @@
 
 Text-to-Cypher generation is a game-changer for working with graph databases. It translates natural language into Cypher queries, simplifying the process of accessing and exploring complex, connected data. This notebook walks you through methods like in-context learning and fine-tuning (PEFT) to enhance these models, making data retrieval faster and more accurate.
 
-## Graph DB ScreenShots
+### Graph DB ScreenShots
+
 
 ![](https://github.com/ajairosen/GraphRAG-Neo4j/blob/main/images/GraphDB%20SS-1.png)
+![](https://github.com/ajairosen/GraphRAG-Neo4j/blob/main/images/GraphDB%20SS-2.png)
+![](https://github.com/ajairosen/GraphRAG-Neo4j/blob/main/images/GraphDB%20SS-3.png)
 
 ## Steps
 
