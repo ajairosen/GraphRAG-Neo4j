@@ -6,7 +6,7 @@ Text-to-Cypher generation is a game-changer for working with graph databases. It
 
 ## Graph DB ScreenShots
 
-![Alt text](images\GraphDB SS-1.png)
+![Alt text]([images\GraphDB SS-1.png](https://github.com/ajairosen/GraphRAG-Neo4j/blob/main/images/GraphDB%20SS-1.png))
 
 ## Steps
 
