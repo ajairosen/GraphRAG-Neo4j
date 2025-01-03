@@ -1,4 +1,9 @@
-# GraphRAG-Neo4j
+# Enhancing Text2Cypher with In-Context Learning and Fine-Tuning
+
+## Introduction
+
+Text-to-Cypher generation is a game-changer for working with graph databases. It translates natural language into Cypher queries, simplifying the process of accessing and exploring complex, connected data. This notebook walks you through methods like in-context learning and fine-tuning (PEFT) to enhance these models, making data retrieval faster and more accurate.
+
 
 
 ## Steps
@@ -9,7 +14,7 @@
 4. Generating Cypher queries using LLM for fine tuning (notebooks\Cypher Queries LLM.ipynb)
 
 
-## Drawbacks
+## Drawbacks (Limitations)
 
 1. This approach works best with a high-quality LLM model (preferably a paid one) for generating accurate Cypher queries.
 2. Better results can be achieved if the dataset used to train the model is large.
