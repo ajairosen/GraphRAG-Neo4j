@@ -1,0 +1,318 @@
+question,type
+What is the name of the player with the overall rating above 80?,Simple Retrieval Queries
+Which player plays for Querétaro?,Simple Retrieval Queries
+What is the name of the position played by Martim Neto?,Simple Retrieval Queries
+What is the potential of A. Valencia?,Simple Retrieval Queries
+What is the release clause of H. Herrera?,Simple Retrieval Queries
+Which players have an overall rating above 70?,Simple Retrieval Queries
+What is the name of the club with the highest value?,Simple Retrieval Queries
+What is the name of the player with the highest potential?,Simple Retrieval Queries
+What is the name of the role played by L. Stergiou?,Simple Retrieval Queries
+What is the wage of Martim Neto?,Simple Retrieval Queries
+Which players have an age between 20 and 34?,Simple Retrieval Queries
+What is the name of the player with the best overall rating?,Simple Retrieval Queries
+What is the name of the foot used by A. Valencia?,Simple Retrieval Queries
+What is the name of the club played by H. Herrera?,Simple Retrieval Queries
+What is the name of the player with the highest value?,Simple Retrieval Queries
+What is the name of the player with the lowest wage?,Simple Retrieval Queries
+"Which players have a release clause above 1,000,000?",Simple Retrieval Queries
+What is the name of the player with the overall rating above 70 and potential above 80?,Simple Retrieval Queries
+What is the name of the club with the highest number of players?,Simple Retrieval Queries
+What is the name of the player with the best performance?,Simple Retrieval Queries
+What is the name of the player with the overall rating above 80 and potential above 80?,Simple Retrieval Queries
+"Which players have a value above 5,000,000?",Simple Retrieval Queries
+What is the name of the player with the highest overall rating?,Simple Retrieval Queries
+What is the name of the player with the highest release clause?,Simple Retrieval Queries
+What is the name of the club with the highest number of players with an overall rating above 70?,Simple Retrieval Queries
+Which players have an age in the 'Young Adult' group?,Simple Retrieval Queries
+What is the name of the player with the overall rating above 70 and age above 30?,Simple Retrieval Queries
+"What is the name of the club with the highest number of players with a value above 3,000,000?",Simple Retrieval Queries
+What is the name of the player with the overall rating above 80 and age above 30?,Simple Retrieval Queries
+Which players have a potential above 80?,Simple Retrieval Queries
+What is the name of the player with the overall rating above 70 and potential above 80?,Simple Retrieval Queries
+"What is the name of the club with the highest number of players with a wage above 10,000?",Simple Retrieval Queries
+"Which players have a value above 1,000,000 and a potential above 80?",Simple Retrieval Queries
+"What is the name of the player with the overall rating above 80 and value above 5,000,000?",Simple Retrieval Queries
+What is the name of the club with the highest number of players with an overall rating above 80?,Simple Retrieval Queries
+"What is the name of the player with the overall rating above 70 and value above 3,000,000?",Simple Retrieval Queries
+Which players have a potential above 90?,Simple Retrieval Queries
+What is the name of the player with the overall rating above 80 and potential above 90?,Simple Retrieval Queries
+"What is the name of the club with the highest number of players with a wage above 20,000?",Simple Retrieval Queries
+"Which players have a value above 5,000,000 and a potential above 90?",Simple Retrieval Queries
+"What is the name of the player with the overall rating above 80 and value above 1,000,000?",Simple Retrieval Queries
+What is the name of the club with the highest number of players with an overall rating above 90?,Simple Retrieval Queries
+"What is the name of the player with the overall rating above 70 and value above 1,000,000?",Simple Retrieval Queries
+"Which players have a potential above 90 and a value above 5,000,000?",Simple Retrieval Queries
+"What is the name of the player with the overall rating above 80 and potential above 90 and value above 5,000,000?",Simple Retrieval Queries
+"What is the name of the club with the highest number of players with an overall rating above 90 and value above 5,000,000?",Simple Retrieval Queries
+Which players have an overall rating above 80?,Complex Retrieval Queries
+Who are the players with a age between 20 and 30?,Complex Retrieval Queries
+What are the names of the clubs that have a player with an overall rating above 85?,Complex Retrieval Queries
+Which players use their right foot?,Complex Retrieval Queries
+What are the positions of players with an overall rating above 75?,Complex Retrieval Queries
+"Who are the players with a value above 1,000,000?",Complex Retrieval Queries
+What are the ages of the players with a potential above 80?,Complex Retrieval Queries
+"Which players have a release clause above 10,000,000?",Complex Retrieval Queries
+"Who are the players with a wage above 40,000?",Complex Retrieval Queries
+What are the best overall ratings of players with a age below 25?,Complex Retrieval Queries
+Which players have a role as Central Attacking Midfielder?,Complex Retrieval Queries
+What are the names of the players with a performance overall rating above 80?,Complex Retrieval Queries
+"Who are the players with a financials value above 5,000,000?",Complex Retrieval Queries
+What are the names of the players with a age group 'Prime'?,Complex Retrieval Queries
+Which players have a performance potential above 90?,Complex Retrieval Queries
+What are the names of the players with a overall rating above 90?,Complex Retrieval Queries
+"Who are the players with a release clause above 1,000,000?",Complex Retrieval Queries
+What are the names of the players with a role as Central Midfielder?,Complex Retrieval Queries
+"Which players have a financials wage above 30,000?",Complex Retrieval Queries
+What are the names of the players with a age above 35?,Complex Retrieval Queries
+Who are the players with a performance best overall above 85?,Complex Retrieval Queries
+What are the names of the players with a overall rating below 60?,Complex Retrieval Queries
+Which players have a performance overall rating below 60?,Complex Retrieval Queries
+"What are the names of the players with a release clause below 1,000,000?",Complex Retrieval Queries
+"Who are the players with a financials value below 1,000,000?",Complex Retrieval Queries
+What are the names of the players with a age group 'Teenager'?,Complex Retrieval Queries
+Which players have a performance potential below 70?,Complex Retrieval Queries
+What are the names of the players with a overall rating above 70?,Complex Retrieval Queries
+"Who are the players with a financials wage below 10,000?",Complex Retrieval Queries
+What are the names of the players with a role as Wing Back?,Complex Retrieval Queries
+Which players have a performance best overall below 70?,Complex Retrieval Queries
+What are the names of the players with a age below 20?,Complex Retrieval Queries
+Who are the players with a performance overall rating above 75?,Complex Retrieval Queries
+What are the names of the players with a overall rating below 70?,Complex Retrieval Queries
+Which players have a performance overall rating above 80?,Complex Retrieval Queries
+"What are the names of the players with a release clause above 500,000?",Complex Retrieval Queries
+"Who are the players with a financials value above 8,000,000?",Complex Retrieval Queries
+What are the names of the players with a age group 'Young Adult'?,Complex Retrieval Queries
+Which players have a performance potential above 80?,Complex Retrieval Queries
+What are the names of the players with a overall rating above 85?,Complex Retrieval Queries
+"Who are the players with a financials wage above 20,000?",Complex Retrieval Queries
+What are the names of the players with a role as Central Defensive Midfielder?,Complex Retrieval Queries
+Which players have a performance best overall above 80?,Complex Retrieval Queries
+What are the names of the players with a age above 25?,Complex Retrieval Queries
+Who are the players with a performance overall rating below 70?,Complex Retrieval Queries
+What are the names of the players with a overall rating below 80?,Complex Retrieval Queries
+Which players have a performance overall rating above 85?,Complex Retrieval Queries
+"What are the names of the players with a release clause above 2,000,000?",Complex Retrieval Queries
+"Who are the players with a financials value above 1,500,000?",Complex Retrieval Queries
+What are the names of the players with a age group 'Veteran'?,Complex Retrieval Queries
+Which players have a performance potential above 85?,Complex Retrieval Queries
+What are the names of the players with a overall rating above 90?,Complex Retrieval Queries
+"Who are the players with a financials wage above 40,000?",Complex Retrieval Queries
+What are the names of the players with a role as Striker?,Complex Retrieval Queries
+Which players have a performance best overall above 85?,Complex Retrieval Queries
+What are the names of the players with a age below 30?,Complex Retrieval Queries
+Who are the players with a performance overall rating above 75?,Complex Retrieval Queries
+What are the names of the players with a overall rating below 65?,Complex Retrieval Queries
+Which players have a performance overall rating below 65?,Complex Retrieval Queries
+What is the average age of all players?,Simple Aggregation Queries
+Which players have a potential rating above 80?,Simple Aggregation Queries
+What is the overall rating of the player named 'Martim Neto'?,Simple Aggregation Queries
+How many players are playing for 'Querétaro'?,Simple Aggregation Queries
+What is the highest value of a player?,Simple Aggregation Queries
+Which players are teenagers?,Simple Aggregation Queries
+What is the average wage of all players?,Simple Aggregation Queries
+What is the highest release clause of a player?,Simple Aggregation Queries
+Which players have a primary position of 'CAM'?,Simple Aggregation Queries
+What is the overall rating of the player with the highest value?,Simple Aggregation Queries
+Which players have a performance rating above 80?,Simple Aggregation Queries
+What is the average age of players with a potential rating above 80?,Simple Aggregation Queries
+How many players are playing with their 'Right' foot?,Simple Aggregation Queries
+What is the highest overall rating of a player?,Simple Aggregation Queries
+Which players are in the 'Young Adult' age group?,Simple Aggregation Queries
+What is the average wage of players in the 'Veteran' age group?,Simple Aggregation Queries
+Which players have a financial value above 1.85E8?,Simple Aggregation Queries
+What is the highest release clause of a player in the 'Prime' age group?,Simple Aggregation Queries
+What is the overall rating of a 34-year-old player who plays as a Central Attacking Midfielder and has a potential of 78.0?,Pathfinding Queries
+What is the name of the club a player named Ronaldinho plays for?,Pathfinding Queries
+What is the type of foot used by a player named Martim Neto?,Pathfinding Queries
+What is the age group of a player with an overall rating above 80?,Pathfinding Queries
+What is the release clause of a player with a value of 3300000.0?,Pathfinding Queries
+What is the name of a player who plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the wage of a player with a potential of 83.0?,Pathfinding Queries
+What is the best overall rating of a player with a value of 4100000.0?,Pathfinding Queries
+What is the age of a player who uses their left foot?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 70.0?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro?,Pathfinding Queries
+What is the overall rating of a player who has a best overall rating of 77.0?,Pathfinding Queries
+What is the potential of a player who has a release clause of 0.0?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays for a club named Querétaro?,Pathfinding Queries
+What is the wage of a player who has a potential of 80.0?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 3300000.0?,Pathfinding Queries
+What is the age of a player who has a role of Central Attacking Midfielder?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0?,Pathfinding Queries
+What is the name of a player who plays as a Right and has an overall rating of 70.0?,Pathfinding Queries
+What is the release clause of a player who has a value of 1.85E8?,Pathfinding Queries
+What is the overall rating of a player who has a best overall rating of 72.0?,Pathfinding Queries
+What is the potential of a player who has an overall rating above 80?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro and has an overall rating above 80?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the name of a player who has a role of Central Attacking Midfielder and has a performance with an overall rating of 72.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the value of a player who plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the overall rating of a player who plays as a CAM and has an overall rating of 70.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the wage of a player who has a potential of 83.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the best overall rating of a player who has a value of 4100000.0 and plays as a CAM and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the age of a player who has an overall rating above 80 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What is the name of a player who has an overall rating of 78.0 and plays as a Right and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0?,Pathfinding Queries
+What is the type of foot used by a player who has an overall rating of 78.0 and plays for a club named Querétaro and has an overall rating above 80 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM and has an overall rating of 70.0 and plays as a CAM?,Pathfinding Queries
+What are the names of all players who play for a club with a name starting with 'Qu'? ,Complex Aggregation Queries
+Which players have an overall rating above 70 and a potential above 80?,Complex Aggregation Queries
+What is the average age of all players who play as a CAM in the 'Prime' age group?,Complex Aggregation Queries
+Which players have a wage above 50000 and a release clause above 0?,Complex Aggregation Queries
+What are the names of all players who have a value above 500000?,Complex Aggregation Queries
+Which players have an overall rating above 60 and a potential above 70?,Complex Aggregation Queries
+What is the total value of all players who have a wage above 50000?,Complex Aggregation Queries
+Which players have a release clause above 500000?,Complex Aggregation Queries
+What are the names of all players who play with their right foot?,Complex Aggregation Queries
+Which players have an overall rating above 80 and a potential above 90?,Complex Aggregation Queries
+What is the average overall rating of all players who have a value above 1000000?,Complex Aggregation Queries
+Which players have an overall rating above 80?,Verbose query
+What is the average age of players who play as CAM?,Verbose query
+Which clubs have at least 2 players with an overall rating above 85?,Verbose query
+What is the value of the player with the highest overall rating?,Verbose query
+Which players have a potential rating above 90?,Verbose query
+What is the average wage of players who play as defenders?,Verbose query
+Which players have a release clause below 1M?,Verbose query
+What is the number of players who have an overall rating above 75 and are under 25 years old?,Verbose query
+Which clubs have at least 1 player with a value above 1M?,Verbose query
+What is the average overall rating of players who play as goalkeepers?,Verbose query
+Which players have a name that starts with 'M'?,Verbose query
+What is the number of players who have a potential rating above 85 and are over 30 years old?,Verbose query
+Which clubs have at least 1 player with a release clause above 5M?,Verbose query
+What is the average value of players who play as midfielders?,Verbose query
+Which players have a wage above 50K?,Verbose query
+What is the number of players who have an overall rating above 80 and are teenagers?,Verbose query
+Which clubs have at least 1 player with a performance rating above 80?,Verbose query
+What is the average potential rating of players who play as forwards?,Verbose query
+Which players have a name that ends with 'o'?,Verbose query
+What is the number of players who have a value above 500K and are over 25 years old?,Verbose query
+Which clubs have at least 1 player with a role as Central Attacking Midfielder?,Verbose query
+What is the average overall rating of players who play as wingers?,Verbose query
+Which players have a release clause below 500K?,Verbose query
+What is the number of players who have a potential rating above 80 and are veterans?,Verbose query
+Which clubs have at least 1 player with a financial value above 10M?,Verbose query
+What is the average wage of players who play as goalkeepers?,Verbose query
+Which players have a name that contains the letter 'T'?,Verbose query
+What is the number of players who have an overall rating above 75 and are under 20 years old?,Verbose query
+Which clubs have at least 1 player with a performance rating above 85?,Verbose query
+What is the average value of players who play as defenders?,Verbose query
+Which players have a potential rating above 85?,Verbose query
+What is the number of players who have a wage above 20K?,Verbose query
+Which clubs have at least 1 player with a role as Central Defensive Midfielder?,Verbose query
+What is the average overall rating of players who play as midfielders?,Verbose query
+Which players have a release clause above 1M?,Verbose query
+What is the number of players who have an overall rating above 80 and are young adults?,Verbose query
+Which clubs have at least 1 player with a financial value above 5M?,Verbose query
+What is the average potential rating of players who play as goalkeepers?,Verbose query
+Which players have a name that starts with the letter 'S'?,Verbose query
+What is the number of players who have a value above 1M and are over 25 years old?,Verbose query
+Which clubs have at least 1 player with a performance rating above 80?,Verbose query
+What is the average overall rating of players who play as forwards?,Verbose query
+Which players have a release clause below 1M?,Verbose query
+What is the number of players who have a potential rating above 85 and are teenagers?,Verbose query
+Which clubs have at least 1 player with a role as Left Winger?,Verbose query
+What is the average wage of players who play as midfielders?,Verbose query
+Which players have a name that ends with 'o'?,Verbose query
+What is the number of players who have an overall rating above 75 and are veterans?,Verbose query
+Which clubs have at least 1 player with a financial value above 10M?,Verbose query
+What is the average overall rating of players who play as wingers?,Verbose query
+Which players have a potential rating above 90?,Verbose query
+What is the number of players who have a value above 500K and are young adults?,Verbose query
+Which clubs have at least 1 player with a performance rating above 85?,Verbose query
+What is the average value of players who play as goalkeepers?,Verbose query
+Which players have a release clause above 5M?,Verbose query
+What is the number of players who have an overall rating above 80 and are over 30 years old?,Verbose query
+Which clubs have at least 1 player with a role as Right Back?,Verbose query
+What is the average overall rating of players who play as midfielders?,Verbose query
+Which players have a name that contains the letter 'T'?,Verbose query
+What is the number of players who have a potential rating above 80 and are teenagers?,Verbose query
+Which clubs have at least 1 player with a financial value above 5M?,Verbose query
+What is the average overall rating of players who play as defenders?,Verbose query
+Which players have a release clause below 500K?,Verbose query
+What is the number of players who have an overall rating above 75 and are under 25 years old?,Verbose query
+Which clubs have at least 1 player with a performance rating above 80?,Verbose query
+What is the average value of players who play as forwards?,Verbose query
+Which players have a potential rating above 85?,Verbose query
+What is the number of players who have a wage above 20K?,Verbose query
+Which clubs have at least 1 player with a role as Central Defensive Midfielder?,Verbose query
+What is the average overall rating of players who play as wingers?,Verbose query
+Which players have a release clause above 1M?,Verbose query
+What is the number of players who have an overall rating above 80 and are veterans?,Verbose query
+Which clubs have at least 1 player with a financial value above 10M?,Verbose query
+What is the average overall rating of players who play as goalkeepers?,Verbose query
+Which players have a name that starts with the letter 'S'?,Verbose query
+What is the number of players who have a value above 1M and are over 25 years old?,Verbose query
+Which clubs have at least 1 player with a performance rating above 85?,Verbose query
+What is the average potential rating of players who play as forwards?,Verbose query
+Which players have a release clause below 1M?,Verbose query
+What is the number of players who have a potential rating above 85 and are teenagers?,Verbose query
+Which clubs have at least 1 player with a role as Left Winger?,Verbose query
+What is the average wage of players who play as midfielders?,Verbose query
+Which players have a name that ends with 'o'?,Verbose query
+What is the number of players who have an overall rating above 75 and are veterans?,Verbose query
+Which clubs have at least 1 player with a financial value above 10M?,Verbose query
+What is the average overall rating of players who play as wingers?,Verbose query
+Which players have a potential rating above 90?,Verbose query
+What is the number of players who have a value above 500K and are young adults?,Verbose query
+Which clubs have at least 1 player with a performance rating above 85?,Verbose query
+What is the average value of players who play as goalkeepers?,Verbose query
+Which players have a release clause above 5M?,Verbose query
+What is the number of players who have an overall rating above 80 and are over 30 years old?,Verbose query
+Which clubs have at least 1 player with a role as Right Back?,Verbose query
+What is the average overall rating of players who play as midfielders?,Verbose query
+Which players have a name that contains the letter 'T'?,Verbose query
+What is the number of players who have a potential rating above 80 and are teenagers?,Verbose query
+Which clubs have at least 1 player with a financial value above 5M?,Verbose query
+What is the average overall rating of players who play as defenders?,Verbose query
+Which players have a release clause below 500K?,Verbose query
+What is the number of players who have an overall rating above 75 and are under 25 years old?,Verbose query
+Which clubs have at least 1 player with a performance rating above 80?,Verbose query
+What is the average value of players who play as forwards?,Verbose query
+Which players have a potential rating above 85?,Verbose query
+What is the number of players who have a wage above 20K?,Verbose query
+Which clubs have at least 1 player with a role as Central Defensive Midfielder?,Verbose query
