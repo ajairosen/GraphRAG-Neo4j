@@ -1,0 +1,11 @@
+langchain-community
+ipykernel
+neo4j
+langchain
+langchain-groq
+pandas
+openpyxl
+python-dotenv
+sentence-transformers
+langchain_huggingface
+langchain-google-genai
